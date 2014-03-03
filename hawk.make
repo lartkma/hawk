@@ -14,10 +14,19 @@ projects[entity][patch][] = "http://drupal.org/files/entity-1815634-01.patch"
 projects[entity][patch][] = "http://drupal.org/files/1788764-writable_text_format.patch"
 
 projects[bean][subdir] = "contrib"
-projects[bean][version] = "1.0-rc6"
-projects[bean][patch][] = "http://drupal.org/files/bean-1883232-entity-metadata-wrapper.patch"
-projects[bean][patch][] = "http://drupal.org/files/bean-1885958-setter-callbacks.patch"
+projects[bean][version] = "1.1"
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.5"
 
+projects[wysiwyg][subdir] = "contrib"
+projects[wysiwyg][version] = "2.2"
+
+projects[zen][subdir] = "contrib"
+projects[zen][version] = "5.4"
+
+projects[features][subdir] = "contrib"
+projects[features][version] = "2.0"
+
+projects[strongarm][subdir] = "contrib"
+projects[strongarm][version] = "2.0"

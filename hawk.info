@@ -19,3 +19,6 @@ dependencies[] = taxonomy
 ; ==============================================================================
 dependencies[] = views_ui
 dependencies[] = bean
+dependencies[] = wysiwyg
+dependencies[] = features
+dependencies[] = strongarm
